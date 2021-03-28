@@ -1,3 +1,3 @@
 <?php
-echo("puk!")
+echo("pusdak!")
 ?>
