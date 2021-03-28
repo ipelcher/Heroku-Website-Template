@@ -12,4 +12,4 @@ Install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
 
 # Links
 
-[Heroku Website](heroku.com)
+[Heroku Website](https://heroku.com)
