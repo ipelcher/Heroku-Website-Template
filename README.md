@@ -1,5 +1,8 @@
 # HTML Heroku Test Repository
 
+Install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
+Install the [Git](https://git-scm.com/).
+
 To install this thing you should run these comands:
 ```sh
 $ git clone https://github.com/ipelcher/heroku-ipelcher-test1.git
@@ -8,7 +11,6 @@ $ heroku create
 $ git push heroku main
 $ heroku open
 ```
-Install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
 
 # Links
 
