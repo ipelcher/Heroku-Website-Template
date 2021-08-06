@@ -12,6 +12,11 @@ $ git push heroku main
 $ heroku open
 ```
 
+To upload new files:
+```sh
+$ git commit -a
+$ git push heroku main
+```
 # Links
 
 [Heroku Website](https://heroku.com)
